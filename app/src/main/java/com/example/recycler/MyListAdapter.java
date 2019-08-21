@@ -23,7 +23,6 @@ public class MyListAdapter extends RecyclerView.Adapter<MyListAdapter.ViewHolder
         View listItem= layoutInflater.inflate(R.layout.list_item, parent, false);
         ViewHolder viewHolder = new ViewHolder(listItem);
         return viewHolder;
-        //ggfffyh
     }
 
     @Override
